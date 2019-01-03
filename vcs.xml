@@ -18,8 +18,12 @@
           <option name="url" value="https://rwgitlab.dematic.com/mhaley/Test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.dematic.com:austin-or-simulations/racetrack_simulation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\haleymt\Git Code\Waveless Sims" />
+    <option name="cloneParentDir" value="C:\Users\Matt Haley\GitCode\RacetrackSimulation" />
   </component>
 </application>
