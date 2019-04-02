@@ -18,14 +18,22 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl delete" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="JumpToLastChange" />
   <action id="NextOccurence" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="Unwrap" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
