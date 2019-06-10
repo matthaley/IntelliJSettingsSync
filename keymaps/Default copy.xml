@@ -51,6 +51,7 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="Unwrap" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
